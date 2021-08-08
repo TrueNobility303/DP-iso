@@ -20,7 +20,7 @@ by which both $G$ (data graph), $Q$ (query grpah) are stored .
 
 * Candidates
 
-  $C_1(u_1),C_2(u1),...,C_1(u2),C_2(u_2),...]$
+  $[C_1(u_1),C_2(u1),...,C_1(u2),C_2(u_2),...]$
 
 where $C_i(u_j)$ for the ith candidate (in $G$) of the jth vertex in $Q$
 
