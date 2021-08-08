@@ -73,7 +73,7 @@ if Support < Count
 
 DP-iso use a DP of weight for mathing order, where the weight is an estimation of the maxinum embedding of paths.
 
-$W(C(u_1)) = \min_{u_2} \sum_{C(u_2)}W(C(u_2)$ 
+$W(C(u_1)) = \min_{u_2} \sum_{C(u_2)}W(C(u_2))$ 
 
 where $u_2$ is the backward neighbor / child of $u_1$, $C(u_2)$ is the valid candidates given $u_1$
 
